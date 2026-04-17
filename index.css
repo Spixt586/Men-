@@ -1,13 +1,13 @@
 .logo {
   width: 120px;
-  position: absolute;
+  position:sticky;
   top: 40px;
   left: 50%;
   transform: translateX(-50%);
   display: block;
   border-radius: 16px;
-  filter: drop-shadow(0 0 15px #38bdf8)
-          drop-shadow(0 0 35px #38bdf8);
+  filter: drop-shadow(0 0 5px #38bdf8)
+          drop-shadow(0 0 10px #38bdf8);
   transition: 0.3s;
 }
 
